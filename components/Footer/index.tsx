@@ -76,9 +76,9 @@ const Footer = () => {
         </div>
         <div className="py-4">
             <p className="text-center text-base text-body-color dark:text-white">
-              Template by UIdeck and{" "}
+              DIGIDZ software company providing digital solutions{" "}
               <a href="https://nextjstemplates.com" rel="nofollow noopener">
-                Next.js Templates
+                By Belakhdar Oussama
               </a>
             </p>
           </div>
